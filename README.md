@@ -1,6 +1,6 @@
 # Análise de Dados Saláriais da Área de Dados
 
-Esse projeto é uma Data visualization feita com as bibliotecas do Python ``(Pandas, Matplotlib, plotly, pycountry)`` um relatório essencial das principais informações do Dataset com +130mil linhas de dados analisadas
+Esse projeto é uma Data visualization feita com as bibliotecas do Python ``(Pandas, Matplotlib, plotly, pycountry, streamlit)`` um relatório essencial das principais informações do Dataset com +130mil linhas de dados analisadas
 
 
 <img width="1614" height="878" alt="image" src="https://github.com/user-attachments/assets/3c3b135d-4f08-43cf-920e-ab30aad822a2" />
